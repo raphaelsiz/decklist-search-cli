@@ -24,7 +24,7 @@ decklist-search path/to/decklist.txt path/to/inventory.csv
 ```
 
 ### Options
-Case sensitive: boolean
+Case sensitive: boolean. Default false.
 
 ```bash
 decklist-search path/to/decklist.txt path/to/inventory.csv -c
